@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Permissions: all-permissions
+Application-Name: Control Box - Desafio
+Specification-Title: JM
+Specification-Vendor: JM 
+Implementation-Vendor: JM
+Codebase: * 
+Trusted-Library: true
+Trusted-Only: true
+Application-Library-Allowable-Codebase: *
+Caller-Allowable-Codebase: *
